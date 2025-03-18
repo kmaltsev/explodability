@@ -6,4 +6,4 @@ The first notebook "**Explodability_and_Fallback_criteria.ipynb**" entails the e
 
 The second notebook "**CCSN_recipe_for_BPS.ipynb**" presents the core collapse supernova (CCSN) recipe for binapy population synthesis. It predicts the final fate (*failed* or *successful SN*) and remnant type (neutron star or black hole) of massive single and binary-stripped stars that undergo iron-core collapse at the end of their evolution. As input, the recipe requires the carbon-oxygen core mass $M_\mathrm{CO}$, metallicity $Z$ and information on binary mass transfer history of the star.  Since the predictions can be made already at the end of core helium burning and the recipe is fast-to-evaluate, it is applicable for rapid binary population synthesis and other studies at scale.
 
-The Jupyter Notebooks contain many comments that document the essential methods and steps, and plotting routines for quick visualizations.
+The Jupyter Notebooks contain many comments that document the essential methods and steps, and the most important plotting routines.
