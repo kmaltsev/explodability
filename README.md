@@ -1,6 +1,6 @@
 # explodability
 
-This repository contains two user-friendly Jupyter Notebooks (written in Python) with the code related to the paper [Maltsev et al. (2025)]([https://arxiv.org/abs/2503.23856]).
+This repository contains two user-friendly Jupyter Notebooks (written in Python) with the code related to the paper [Maltsev et al. (2025)](https://arxiv.org/abs/2503.23856).
 
 The first notebook "**Explodability_and_Fallback_criteria.ipynb**" entails the explodability criteria for the neutrino-driven supernova (SN) mechanism. These address the progenitor problem: which stars will succeed and which will fail to explode when their iron core collapses? The criteria predict the final fate (*failed* or *successful SN*) and constrain the remnant type (*neutron star* or *fallback black hole*) left behind a successful SN explosion based on pre-SN stellar structure variables at the onset of iron-core infall.
 
